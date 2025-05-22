@@ -1,0 +1,11 @@
+# Java
+/backend/target/
+*.class
+
+# Node/Angular
+/frontend/node_modules/
+frontend/dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
